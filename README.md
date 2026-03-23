@@ -84,9 +84,9 @@ streamlit run app.py
 
 *Add your project screenshot here*
 
-```
-!<img width="919" height="808" alt="image" src="https://github.com/user-attachments/assets/f8dd672f-1e33-41c6-aeed-92b10b3307e9" />
-```
+
+<img width="919" height="808" alt="image" src="https://github.com/user-attachments/assets/f8dd672f-1e33-41c6-aeed-92b10b3307e9" />
+
 
 ---
 
