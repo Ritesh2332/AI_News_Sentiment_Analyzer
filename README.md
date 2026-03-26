@@ -1,4 +1,5 @@
 # AI News Sentiment Analyzer
+🔗 **Live Demo:** https://newspipe.streamlit.app/ 
 
 An end-to-end **machine learning-based web application** that analyzes real-time news sentiment using NLP techniques. The app fetches live news via RSS feeds and web scraping, classifies sentiment (positive, neutral, negative), and presents insights through an interactive Streamlit dashboard.
 
